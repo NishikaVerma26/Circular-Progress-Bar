@@ -31,7 +31,6 @@
   .progress::after {
     content: "%";
   }
-  
   .progress .title {
     position: relative;
     z-index: 100;
